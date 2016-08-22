@@ -179,4 +179,11 @@
         </pluginRepository>
     </pluginRepositories>
 
+	<distributionManagement>
+	   <snapshotRepository>
+	      <id>mspairport-mule</id>
+	      <url>http://localhost:9091/nexus/content/repositories/mspairport-mule/</url>
+	   </snapshotRepository>
+	</distributionManagement>   
+
 </project>
